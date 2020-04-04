@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Year Projects</string>
+    <string-array name="courses">
+        <item><b>Choose course</b></item>
+        <item>BCA</item>
+        <item>BBA</item>
+        <item>B.Com</item>
+        <item>B.Sc</item>
+        <item>B.A.</item>
+    </string-array>
+    <string name="title_activity_home_">Home_Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
